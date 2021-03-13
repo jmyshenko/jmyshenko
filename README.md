@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jmyshenko
+- 👀 I’m interested in game development and Node.js
+- 🌱 I’m currently learning Unity + C# and JavaScript
+- 💞️ I’m currently working at my Discord bot and some cool stuff in Unity3D
+- 📫 My Discord: Рум#2718
