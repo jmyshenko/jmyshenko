@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @jmyshenko
-- 👀 I’m interested in game development and Node.js
-- 🌱 I’m currently learning Unity + C# and JavaScript
-- 💞️ I’m currently working at my Discord bot and some cool stuff in Unity3D
-- 📫 My Discord: Рум#2718
+- 👋 Привет, я @jmyshenko
+- 👀 Я интересуюсь разработкой игр и Node.js
+- 🌱 Сейчас я изучаю C# (Unity) и JavaScript
+- 💞️ Пока что я работаю над своим ботом для Discord и кое-чем интересным в Unity (не игра)
+- 📫 Можешь написать мне в Discord: Рум#2718
+
+![]('./poster.png')
